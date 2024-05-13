@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>ADOPTION VON PROBLEMKINDERN</title>
+</head>
+
+<body>
+<h1>ICH SUCH ELTERN FÜR ADOPTION</h1>
+
+<h2>NAME: Yoda</h2>
+<h2>ALTER: 305 </h2>
+<h2>GESCHLECHT: unbekannt</h2>
+<h2>BESCHREIBUNG: Yoda ist ein sehr liebes und schönes Kind. Er hat nur ein paar Probleme beim Klogang und beim Artikulieren von Sätzen. Manchmal belästigt er Mädchen aber keine Sorge</h2>
+<h2>EIGENES KOMMENTAR VOM KIND: Eltern ich möchte. Vor allem Schwester des Stiefs schön wäre für dingidong meines glücklich sein</h2>
+<h2>PREIS: 19,99 Euro (verhandelbar) </h2>
+<h2>Ein sch&ouml;nes Bild</h2>
+<img src="yoda.jpg" width="300" />
+...
+<h1>Für weitere Kinder zu Adoption gehen sie auf:</h1>
+
+<p>Zur <a href="https://hundsuchthuette.at/de/unsere-hunde">Problemkinder in Österreich </a> gehen ...</p>
+</html>
